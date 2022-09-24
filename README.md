@@ -1,5 +1,5 @@
 # laravel-signup-login-backend
-Laravel Signup Login Backend API with Email Verification
+Laravel JWT Auth Signup Login Backend API with Email Verification
 
 1. Clone the repository code.
 
