@@ -17,4 +17,4 @@ Laravel JWT Auth Signup Login Backend API with Email Verification
 
 Laravel Signup Login Backend API with Email Verification Provided by [GAC DEV](https://geniusandcourage.com)
 
-![Laravel Signup Login Backend API with Email Verification](https://ndolet.com/nd_en.jpg)
+![Laravel Signup Login Backend API with Email Verification](https://hlwsdtech.com:8081/images/nd_en.jpg)
